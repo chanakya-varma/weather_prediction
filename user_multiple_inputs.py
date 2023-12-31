@@ -1,4 +1,4 @@
-n = int(input("Enter the value:clear"))
+n = int(input("Enter the value:"))
 for i in range(0,n):
     T = int(input("Enter the Temp:"))
     H = int(input("Enter the Humidity:"))
